@@ -44,15 +44,15 @@ class ViewController: UITableViewController, moveData, WCSessionDelegate{
             let newEntry : MoodEntry!
             
             switch mood {
-            case "Amazing":
+            case "amazing":
                 newEntry = MoodEntry(mood: .amazing, date: date)
-            case "Good":
+            case "good":
                 newEntry = MoodEntry(mood: .good, date: date)
-            case "Bad":
+            case "bad":
                 newEntry = MoodEntry(mood: .bad, date: date)
-            case "Terrible":
+            case "terrible":
                 newEntry = MoodEntry(mood: .terrible, date: date)
-            case "Neutral":
+            case "neutral":
                 newEntry = MoodEntry(mood: .neutral, date: date)
             default:
                 return

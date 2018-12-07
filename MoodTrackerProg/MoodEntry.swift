@@ -26,15 +26,15 @@ struct  MoodEntry {
             case .none:
                 return ""
             case .amazing:
-                return "Amazing"
+                return "amazing"
             case .good:
-                return "Good"
+                return "good"
             case .neutral:
-                return "Neutral"
+                return "neutral"
             case .bad:
-                return "Bad"
+                return "bad"
             case .terrible:
-                return "Terrible"
+                return "terrible"
             }
         }
         
