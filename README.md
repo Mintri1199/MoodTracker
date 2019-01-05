@@ -14,4 +14,5 @@ This is a simple tracker app that let the user to tracks their current mood for 
 
 ![alt text](https://github.com/Mintri1199/MoodTracker/blob/master/DemoGifs/Demo1.gif)
 
+##### Apple Watch Extension
 ![alt text](https://github.com/Mintri1199/MoodTracker/blob/master/DemoGifs/Demo2.gif)
