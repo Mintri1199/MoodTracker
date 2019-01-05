@@ -2,7 +2,7 @@
 
 This is an assignment from MOB 1.2 at Make School
 
-The objective of this project is to introduce the students to User Defaults while practice using UITableView, UIKit components, and making Apple Watch Extension.
+The objective of this project is to allow the students to practice using UITableView, UIKit components, and making Apple Watch Extension.
 
 The tutorials were originally used storyboards as its main way to design. So as a challenge for myself, I refused to use storyboard and did this project all programmatically.
 
