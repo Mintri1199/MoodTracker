@@ -64,7 +64,6 @@ class ViewController: UITableViewController, moveData, WCSessionDelegate{
         
     }
     
-    
     var entries: [MoodEntry] = []
     let cellId = "moodEntryCell"
     
